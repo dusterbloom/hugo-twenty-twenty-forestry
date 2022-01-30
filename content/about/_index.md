@@ -3,4 +3,5 @@ title: About
 description: This is meta description
 
 ---
-Bombi is a cat who lives at my mother's place but in reality it's really me.
+
+Bombi is a cat who lives at my mother's place but in reality it's really me.  When I was younger I went to study at the Art School of Nowhere. Now I am happy where I am.
