@@ -58,8 +58,8 @@ image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "#"
-www = "https://bombi.eth.limo"
+email = "info@bombi.eth"
+http = "https://bombi.eth.limo"
 [taxonomies]
 author = "author"
 category = "categories"
