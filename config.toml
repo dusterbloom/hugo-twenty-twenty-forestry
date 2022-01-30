@@ -33,7 +33,7 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Bombi"
 description = "This is bombi and it is meta"
 [params.banner]
 image = "https://storageapi.fleek.co/peppilittera-team-bucket/Bombi_Original_002_1600x1090.jpeg"
@@ -48,7 +48,6 @@ title = "Contattaci per non avere ulteriori informazioni."
 [params.footer]
 address = "Via dei Mille, n.0 <br> New York, NY 10001"
 content = "Bombi creates without asking for permission."
-#copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 title = "What is up"
 [params.gallery]
