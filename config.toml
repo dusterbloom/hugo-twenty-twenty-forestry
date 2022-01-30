@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-image = "images/bombi_original_001.jpeg"
+image = "https://storageapi.fleek.co/peppilittera-team-bucket/Bombi_Original_002_1600x1090.jpeg"
 [params.blog]
 heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
 [params.call_to_action]
