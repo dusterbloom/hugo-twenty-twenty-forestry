@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 #theme = "github.com/themefisher/twenty-twenty-hugo"
-theme = "github.com/dusterbloom/newsroom"
+theme = "github.com/kishaningithub/hugo-creative-portfolio-theme"
 title = "Bombi"
 [markup.goldmark.renderer]
 unsafe = true
