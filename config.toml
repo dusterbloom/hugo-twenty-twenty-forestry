@@ -35,7 +35,8 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Bombi"
 description = "This is bombi and it is meta"
-customCSS = ["/assets/css/style.css"]
+[params.customCSS]
+href = "/style.css" 
 [params.banner]
 image = "https://storageapi.fleek.co/peppilittera-team-bucket/Bombi_Original_002_1600x1090.jpeg"
 [params.blog]
