@@ -25,6 +25,7 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/a-flyng-carpet-named-desire.md
 - content/blog/a-foggy-day.md
 - content/blog/a-foggy-day.md
 - content/blog/eavesdropping-on-a-cloudy-sky-i-miss-you.md
