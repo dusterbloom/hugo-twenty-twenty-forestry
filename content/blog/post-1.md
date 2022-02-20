@@ -1,6 +1,6 @@
 ---
 title: Outside of your sphere of influence
-date: 2021-10-20T22:00:00+00:00
+date: 2022-01-15T23:00:00+00:00
 image: https://storageapi.fleek.co/peppilittera-team-bucket/Bombi_002.jpeg
 author:
 - Admin
