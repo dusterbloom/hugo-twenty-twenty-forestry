@@ -3,7 +3,7 @@ author = []
 categories = []
 date = 2022-02-11T23:00:00Z
 description = ""
-image = "/images/img-20220220-wa0002.jpg"
+image = "/images/20220221_094643.jpg"
 tags = []
 title = "I know lust"
 
