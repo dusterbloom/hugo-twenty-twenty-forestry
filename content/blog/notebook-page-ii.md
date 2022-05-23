@@ -6,6 +6,6 @@ description = ""
 draft = true
 image = "/images/20220523_075128.jpg"
 tags = []
-title = "Notebook page"
+title = "///"
 
 +++
