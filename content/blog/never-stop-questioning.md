@@ -6,6 +6,6 @@ description = ""
 draft = true
 image = "/images/20220812_154905.jpg"
 tags = []
-title = "Never stop questioning 🌍"
+title = "N:ever stop questioning 🌍"
 
 +++
