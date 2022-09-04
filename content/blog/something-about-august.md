@@ -6,6 +6,6 @@ description = ""
 draft = true
 image = "/images/20220827_112940-1-1.jpg"
 tags = []
-title = "Something about august "
+title = "Something about august"
 
 +++
